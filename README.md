@@ -65,3 +65,6 @@ The **Random Forest Classifier** showed the highest accuracy after tuning for th
    jupyter notebook "Heart_disease Predictor.ipynb"
    ```
 3. Run all cells sequentially to train models and see visualizations.
+
+   ![Heart Disease Prediction](https://github.com/user-attachments/assets/091d4e62-8aa8-4736-86de-c6d478509aa9)
+
